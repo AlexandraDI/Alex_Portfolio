@@ -6,11 +6,8 @@ Data Science and Web Development portfolio -->
 
 A web application that provides online services for obtaining Golden Visa from Greece.
 
-![][logo]
 
-[logo]: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/alma-short.gif "Logo Title Text 2"
-
-<!-- <p align="center"> <img src="https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/alma-short.gif" alt="alma_webinterface" width="80%" height="80%" /></p> -->
+<p align="center"> <img src="https://github.com/AlexandraDI/ALMA/blob/95f941d53a0bee5546abf0e70cf5c8b3bfdb4fff/src/main/resources/static/alma-short.gif" alt="alma_webinterface" width="80%" height="80%" /></p>
 
 
 <!-- ![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/images/1.JPG?raw=true "Title") -->
