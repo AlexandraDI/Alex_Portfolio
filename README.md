@@ -1,5 +1,5 @@
-# Alexandra_Portfolio
-Data Science and Web Development portfolio
+<!-- # Alexandra_Portfolio
+Data Science and Web Development portfolio -->
 
 
 # [Connections](https://github.com/AlexandraDI/Connections)
