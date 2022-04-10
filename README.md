@@ -2,6 +2,34 @@
 Data Science and Web Development portfolio -->
 
 
+# [ALMA](https://github.com/AlexandraDI/ALMA)
+
+A web application that provides online services for obtaining Golden Visa from Greece.
+
+
+![alt text](./src/main/resources/static/images/1.JPG?raw=true "Title")
+![alt text](./src/main/resources/static/images/2.JPG?raw=true "Title")
+![alt text](./src/main/resources/static/images/3.JPG?raw=true "Title")
+![alt text](./src/main/resources/static/images/4.JPG?raw=true "Title")
+![alt text](./src/main/resources/static/images/5.JPG?raw=true "Title")
+
+
+![alt text](./src/main/resources/static/images/login.JPG?raw=true "Title")
+
+
+![alt text](./src/main/resources/static/images/register.JPG?raw=true "Title")
+
+
+![alt text](./src/main/resources/static/images/register2.JPG?raw=true "Title")
+
+
+![alt text](./src/main/resources/static/images/info1.JPG?raw=true "Title")
+
+
+![alt text](./src/main/resources/static/images/info2.JPG?raw=true "Title")
+
+
+
 # [Connections](https://github.com/AlexandraDI/Connections)
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/44316752/49393551-3ee29280-f73a-11e8-88e2-6326baa4bcdc.gif" alt="example prompt" width="80%" height="80%" /></p>
