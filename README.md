@@ -13,8 +13,9 @@ A web application that provides online services for obtaining Golden Visa from G
 ![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/images/1.JPG?raw=true "Title")
 ![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/images/2.JPG?raw=true "Title")
 
-![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/Screenshot%202022-04-10%20204008.png?raw=true "Title")
 ![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/Screenshot%202022-04-10%20204640.png?raw=true "Title")
+![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/Screenshot%202022-04-10%20204008.png?raw=true "Title")
+
 
 
 <!-- ![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/images/3.JPG?raw=true "Title")
