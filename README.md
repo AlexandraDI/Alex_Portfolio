@@ -1,10 +1,15 @@
 <!-- # Alexandra_Portfolio
 Data Science and Web Development portfolio -->
 
+# [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
 
-# [Tactical Voting Analyst](https://github.com/AlexandraDI/TacticalVotingAnalyst)
+This project researches the task of reasoning with controlled natural language (CNL).
+
+
+# [Tactical Voting Analyst](https://github.com/AlexandraDI/Tactical_Voting_Analyst)
 
 Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters.
+
 
 # [ALMA](https://github.com/AlexandraDI/ALMA)
 
