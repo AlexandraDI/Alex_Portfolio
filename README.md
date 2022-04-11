@@ -11,6 +11,11 @@ Implementation of 4 Assignments for the course Autonomous Robotic Systems.
 This project researches the task of reasoning with controlled natural language (CNL).
 
 
+# [Machine Learning Projects](https://github.com/AlexandraDI/Machine_Learning)
+
+Implementation of Backpropagation, AutoEncoders and Quantum Machine Learning assignments. 
+
+
 # [Tactical Voting Analyst](https://github.com/AlexandraDI/Tactical_Voting_Analyst)
 
 Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters.
