@@ -60,7 +60,7 @@ A web application that provides online services for obtaining Golden Visa from G
 
 # [Connections](https://github.com/AlexandraDI/Connections)
 
-A web application that has some typical social network features.
+A web application that implements some typical social network features.
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/44316752/49393551-3ee29280-f73a-11e8-88e2-6326baa4bcdc.gif" alt="example prompt" width="80%" height="80%" /></p>
 
