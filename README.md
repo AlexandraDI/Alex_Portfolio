@@ -2,6 +2,10 @@
 Data Science and Web Development portfolio -->
 
 
+# [Tactical Voting Analyst](https://github.com/AlexandraDI/TacticalVotingAnalyst)
+
+Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters.
+
 # [ALMA](https://github.com/AlexandraDI/ALMA)
 
 A web application that provides online services for obtaining Golden Visa from Greece.
