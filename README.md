@@ -10,7 +10,7 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 ![zigzag](./ezgif-2-e004d3102f.gif)
 
-* Task 2: Implementation of a Robot Simulation.
+* Task 2: Implementation of a Robot Simulator.
 
 <!-- 
 ![zigzag](./ezgif-2-93d66cc0b1.gif) -->
