@@ -10,7 +10,7 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 Impelentation of Swarm Intelligence tested on Benchmark Functions.
 
-![Screenshot](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment1/ezgif-2-e004d3102f.gif)
+![zigzag](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment1/ezgif-2-e004d3102f.gif)
 
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
