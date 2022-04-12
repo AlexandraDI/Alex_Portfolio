@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+url: 'https://alexandradi.github.io/'
+baseurl: 'Alex_Portfolio/'
 logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker.png?raw=true
 title: [Alex Portfolio]
 show_downloads: [true]
