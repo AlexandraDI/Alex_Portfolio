@@ -8,8 +8,7 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 * Task 1: Test a Swarm Intelligence algorithm on Benchmark Functions.
 
-<!-- ![zigzag](./ezgif-2-e004d3102f.gif) -->
-<p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-e004d3102f.gif" alt="zigzag" width="100%" height="100%" /> </p>
+![zigzag](./ezgif-2-e004d3102f.gif)
 
 * Task 2: Implementation of a Robot Simulator.
 
