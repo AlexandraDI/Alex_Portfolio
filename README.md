@@ -15,7 +15,7 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 <!-- 
 ![zigzag](./ezgif-2-93d66cc0b1.gif) -->
 
-<img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="40%" height="40%" />
+<p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="40%" height="40%" /> </p>
 <!-- <p align="center">
 <img src="{{ "./ezgif-2-93d66cc0b1.gif" | prepend: 'Alex_Portfolio/' | prepend: 'https://alexandradi.github.io/'}}" alt="zigzag" width="40%" height="40%" />
  </p> -->
