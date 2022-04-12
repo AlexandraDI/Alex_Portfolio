@@ -19,6 +19,8 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 <!-- <p align="center">
 <img src="{{ "./ezgif-2-93d66cc0b1.gif" | prepend: 'Alex_Portfolio/' | prepend: 'https://alexandradi.github.io/'}}" alt="zigzag" width="40%" height="40%" />
  </p> -->
+ 
+ * Task 3: Apply Evolutionary Algorithms on Benchmark Functions
 
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
