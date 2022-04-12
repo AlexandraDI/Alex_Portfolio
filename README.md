@@ -12,11 +12,13 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 * Task 2: Implementation of a Robot Simulation.
 
-![zigzag](./ezgif-2-93d66cc0b1.gif)
+<!-- 
+![zigzag](./ezgif-2-93d66cc0b1.gif) -->
 
-<p align="center">
-<img src="{{ "./ezgif-2-93d66cc0b1.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" width="80%" height="60%" />
- </p>
+<img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="40%" height="40%" />
+<!-- <p align="center">
+<img src="{{ "./ezgif-2-93d66cc0b1.gif" | prepend: 'Alex_Portfolio/' | prepend: 'https://alexandradi.github.io/'}}" alt="zigzag" width="40%" height="40%" />
+ </p> -->
 
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
