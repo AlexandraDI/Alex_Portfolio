@@ -14,6 +14,8 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 ![zigzag](./ezgif-2-93d66cc0b1.gif)
 
+<img src="{{ "./ezgif-2-93d66cc0b1.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" width="80%" height="60%" />
+
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
 
