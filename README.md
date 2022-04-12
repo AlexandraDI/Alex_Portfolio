@@ -56,6 +56,23 @@ Implementation of Backpropagation, AutoEncoders and Quantum Machine Learning ass
 Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters.
 
 
+
+<p align="center">
+
+ <img src="https://alexandradi.github.io/Alex_Portfolio/TVA_Figure_1.png" alt="zigzag" width="80%" height="80%" /> 
+</p>
+ 
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/TVA_Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
+ 
+ <img src="https://alexandradi.github.io/Alex_Portfolio/TVA_Figure_3.png" alt="zigzag" width="49%" height="80%" /> 
+ 
+ <img src="https://alexandradi.github.io/Alex_Portfolio/TVA_Figure_4.png" alt="zigzag" width="49%" height="80%" /> 
+ 
+ <img src="https://alexandradi.github.io/Alex_Portfolio/TVA_Figure_5.png" alt="zigzag" width="49%" height="80%" />  
+ </p>
+
+
 # [ALMA](https://github.com/AlexandraDI/ALMA)
 
 A web application that provides online services for obtaining Golden Visa from Greece.
