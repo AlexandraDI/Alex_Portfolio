@@ -1,3 +1,4 @@
+logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/images/1.JPG?raw=true
 <!-- # Alexandra_Portfolio
 Data Science and Web Development portfolio -->
 
