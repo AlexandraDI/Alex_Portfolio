@@ -10,6 +10,10 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 ![zigzag](./ezgif-2-e004d3102f.gif)
 
+* Task 2: Implementation of a Robot Simulation.
+
+![zigzag](./ezgif-2-93d66cc0b1.gif)
+
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
 
