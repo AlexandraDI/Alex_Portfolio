@@ -7,8 +7,7 @@ Data Science and Web Development portfolio -->
 Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 * Task 1: Swarm Intelligence
-
-Impelentation of Swarm Intelligence tested on Benchmark Functions.
+Test a Swarm Intelligence algorithm on Benchmark Functions.
 
 ![zigzag](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment1/ezgif-2-e004d3102f.gif)
 
