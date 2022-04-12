@@ -6,7 +6,7 @@ Data Science and Web Development portfolio -->
 
 Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
-## Task 1: Swarm Intelligence
+* Task 1: Swarm Intelligence
 
 Impelentation of Swarm Intelligence tested on Benchmark Functions.
 
