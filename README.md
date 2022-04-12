@@ -1,8 +1,6 @@
 <!-- # Alexandra_Portfolio
 Data Science and Web Development portfolio -->
 
-![Screenshot](https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker.png?raw=true "Title")
-
 
 # [Autonomous Robotic Systems](https://github.com/AlexandraDI/Autonomous_Robotic_Systems)
 
