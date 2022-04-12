@@ -6,6 +6,8 @@ Data Science and Web Development portfolio -->
 
 Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
+-Task 1: Swarm Intelligence
+
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
 
