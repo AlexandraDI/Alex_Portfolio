@@ -50,9 +50,10 @@ This project researches the task of reasoning with controlled natural language (
 
 Implementation of AutoEncoders with Backpropagation and Quantum Machine Learning assignments. 
 
-* Task 1: AutoEncoders
-* Task 2: Convolutional AutoEncoders
-* Task 3: Quantum Machine Learning
+* [Task 1: AutoEncoders](https://github.com/AlexandraDI/Machine_Learning/blob/main/Autoencoders/assignment1.ipynb)
+* [Task 2: Convolutional AutoEncoders](https://github.com/AlexandraDI/Machine_Learning/blob/main/ConvolutionalAutoEncoders/Assignment2.ipynb)
+* [Task 3: Quantum Machine Learning](https://github.com/AlexandraDI/Machine_Learning/blob/main/QuantumMachineLearning/Ass_Var_Modified.ipynb)
+* [Task 4: Quantum Kernels and Support Vector Machines](https://github.com/AlexandraDI/Machine_Learning/blob/main/QuantumMachineLearning/Ass_QK_SVM.ipynb)
 
 
 # [Tactical Voting Analyst](https://github.com/AlexandraDI/Tactical_Voting_Analyst)
