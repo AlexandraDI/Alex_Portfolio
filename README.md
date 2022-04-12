@@ -16,13 +16,9 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 ![zigzag](./ezgif-2-93d66cc0b1.gif) -->
 
 <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="70%" height="80%" /> </p>
-<!-- <p align="center">
-<img src="{{ "./ezgif-2-93d66cc0b1.gif" | prepend: 'Alex_Portfolio/' | prepend: 'https://alexandradi.github.io/'}}" alt="zigzag" width="40%" height="40%" />
- </p> -->
  
  * Task 3: Apply Evolutionary Algorithms on Benchmark Functions
  
- https://github.com/AlexandraDI/Alex_Portfolio/blob/main/Figure_1.png
  <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_1.png" alt="zigzag" width="49%" height="80%" /> 
  <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
 </p>
