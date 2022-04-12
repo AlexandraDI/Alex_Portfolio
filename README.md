@@ -39,7 +39,7 @@ This project researches the task of reasoning with controlled natural language (
 
  <img src="https://alexandradi.github.io/Alex_Portfolio/Screenshot%202022-04-13%20001445.png" alt="zigzag" width="80%" height="80%" /> 
  
- <img src="https://alexandradi.github.io/Alex_Portfolio/Screenshot%202022-04-13%20001527.png" alt="zigzag" width="80%" height="80%" /> 
+ <img src="https://alexandradi.github.io/Alex_Portfolio/Screenshot%202022-04-13%20001527.png" alt="zigzag" width="77%" height="80%" /> 
  
  <img src="https://alexandradi.github.io/Alex_Portfolio/Screenshot%202022-04-13%20001623.png" alt="zigzag" width="100%" height="80%" /> 
  
