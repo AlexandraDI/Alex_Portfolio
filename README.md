@@ -23,13 +23,13 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
  <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
 </p>
 
+* Task 4: Apply Evolutionary Algorithm to make the Robot collect as much dust as possible.
+
+<p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
+
 * Task 4: Mobile Robot Localization with Kalman Filters.
 
-<p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
-
-* Task 5: Apply Evolutionary Algorithm to make the Robot collect as much dust as possible.
-
-<p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
+<p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-472c8e629c.gif" alt="zigzag" width="70%" height="80%" /> </p>
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
 
