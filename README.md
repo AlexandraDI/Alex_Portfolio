@@ -8,12 +8,12 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 Contributors: Gianluca Vico.
 
 * [Task 1](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment1): Test a Swarm Intelligence algorithm on Benchmark Functions.
-[Description of the task.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment1/02d%20ARS%20-%20Assignment%20Swarm%20Intelligence.pdf)
+Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment1/02d%20ARS%20-%20Assignment%20Swarm%20Intelligence.pdf)
 
 ![zigzag](./ezgif-2-e004d3102f.gif)
 
 * [Task 2](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment2): Implementation of a Robot Simulator.
-[Description of the task.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment2/07%20ARS%20-%20Assignment%20Mobile%20Robot%20Simulator.pdf)
+Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment2/07%20ARS%20-%20Assignment%20Mobile%20Robot%20Simulator.pdf)
 
 <!-- 
 ![zigzag](./ezgif-2-93d66cc0b1.gif) -->
@@ -21,19 +21,19 @@ Contributors: Gianluca Vico.
 <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="70%" height="80%" /> </p>
  
  * [Task 3](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment3): Apply Evolutionary Algorithms on Benchmark Functions.
-[Description of the task.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf)
+Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf)
  
  <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_1.png" alt="zigzag" width="49%" height="80%" /> 
  <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
 </p>
 
 * [Task 4](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment4): Apply Evolutionary Algorithm to make the Robot collect as much dust as possible in different Environments.
-[Description of the task.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf)
+Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf)
 
 <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
 
 * [Task 5](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment5): Mobile Robot Localization with Kalman Filters.
-[Description of the task.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment5/20%20ARS%20-%20Assignment%20Localization.pdf)
+Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment5/20%20ARS%20-%20Assignment%20Localization.pdf)
 
 <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/ezgif-2-472c8e629c.gif" alt="zigzag" width="70%" height="80%" /> </p>
 
@@ -41,6 +41,8 @@ Contributors: Gianluca Vico.
 
 This project researches the task of reasoning with controlled natural language (CNL). 
 Contributors: Gianluca Vico, Leon Grot, Ali Rahimi.
+</br>
+Find the Project Report [here.](https://github.com/AlexandraDI/Reasoning_with_Natural_Language/blob/master/Reasoning__with_NL_Report.pdf)
 
 <p align="center">
 
@@ -68,6 +70,8 @@ Contributors: Gianluca Vico.
 
 Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters.
 Contributors: Gianluca Vico, Maria Perez Diez, Niels Osnabrugge, Simon Eliott.
+</br>
+Find the Project Report [here.](https://github.com/AlexandraDI/Tactical_Voting_Analyst/blob/main/MAS_Tactical_Voting_Analyst_Report.pdf)
 
 
 
