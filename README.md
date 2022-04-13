@@ -69,7 +69,6 @@ Contributors: Gianluca Vico.
 
 Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters.
 Contributors: Gianluca Vico, Maria Perez Diez, Niels Osnabrugge, Simon Eliott.
-</br>
 Find the Project Report [here.](https://github.com/AlexandraDI/Tactical_Voting_Analyst/blob/main/MAS_Tactical_Voting_Analyst_Report.pdf)
 
 
