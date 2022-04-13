@@ -41,7 +41,6 @@ Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Roboti
 
 This project researches the task of reasoning with controlled natural language (CNL). 
 Contributors: Gianluca Vico, Leon Grot, Ali Rahimi.
-</br>
 Find the Project Report [here.](https://github.com/AlexandraDI/Reasoning_with_Natural_Language/blob/master/Reasoning__with_NL_Report.pdf)
 
 <p align="center">
