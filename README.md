@@ -4,7 +4,7 @@ Data Science and Web Development portfolio -->
 
 # [Autonomous Robotic Systems](https://github.com/AlexandraDI/Autonomous_Robotic_Systems)
 
-Implementation of 5 Assignments for the course Autonomous Robotic Systems.
+Implementation of 5 Assignments for the course Autonomous Robotic Systems. Implemented with Gianluca Vico.
 
 * Task 1: Test a Swarm Intelligence algorithm on Benchmark Functions.
 
@@ -33,7 +33,7 @@ Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 
 # [Reasoning with Natural Language](https://github.com/AlexandraDI/Reasoning_with_Natural_Language)
 
-This project researches the task of reasoning with controlled natural language (CNL).
+This project researches the task of reasoning with controlled natural language (CNL). Implemented with Gianluca Vico, Leon Grot, Ali Rahimi.
 
 <p align="center">
 
@@ -48,7 +48,7 @@ This project researches the task of reasoning with controlled natural language (
 
 # [Machine Learning Projects](https://github.com/AlexandraDI/Machine_Learning)
 
-Implementation of AutoEncoders with Backpropagation and Quantum Machine Learning assignments. 
+Implementation of AutoEncoders with Backpropagation and Quantum Machine Learning assignments. Implemented with Gianluca Vico.
 
 * [Task 1: AutoEncoders](https://github.com/AlexandraDI/Machine_Learning/blob/main/Autoencoders/assignment1.ipynb)
 * [Task 2: Convolutional AutoEncoders](https://github.com/AlexandraDI/Machine_Learning/blob/main/ConvolutionalAutoEncoders/Assignment2.ipynb)
@@ -58,7 +58,7 @@ Implementation of AutoEncoders with Backpropagation and Quantum Machine Learning
 
 # [Tactical Voting Analyst](https://github.com/AlexandraDI/Tactical_Voting_Analyst)
 
-Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters.
+Implementation of  a Tactical Voting Analyst, which, given an honest voting situation, computes the outcome and calculates the individual happiness and the overall happiness of the voters. Implemented with Gianluca Vico, Maria Perez Diez, Niels Osnabrugge, Simon Eliott.
 
 
 
@@ -80,7 +80,7 @@ Implementation of  a Tactical Voting Analyst, which, given an honest voting situ
 
 # [ALMA](https://github.com/AlexandraDI/ALMA)
 
-A web application that provides online services for obtaining Golden Visa from Greece.
+A web application that provides online services for obtaining Golden Visa from Greece. Implemented with Maria Koutouzi.
 
 <!-- 
 <p align="center"> <img src="https://github.com/AlexandraDI/ALMA/blob/95f941d53a0bee5546abf0e70cf5c8b3bfdb4fff/src/main/resources/static/alma-short.gif" alt="alma_webinterface" width="80%" height="80%" /></p> -->
