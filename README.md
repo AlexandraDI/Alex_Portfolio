@@ -2,7 +2,7 @@
 Data Science and Web Development portfolio -->
 
 
-# [Autonomous Robotic Systems](https://github.com/AlexandraDI/Autonomous_Robotic_Systems){:target="_blank" rel="noopener"}
+# [Autonomous Robotic Systems](https://github.com/AlexandraDI/Autonomous_Robotic_Systems){:target="_blank"}
 
 Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 Contributors: Gianluca Vico.
