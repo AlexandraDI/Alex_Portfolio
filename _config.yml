@@ -4,7 +4,7 @@ baseurl: 'Alex_Portfolio/'
 logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker.png?raw=true
 title: [Alexandra_Gianzina]
 description: [M.Sc student in Artificial Intelligence portfolio]
-show_downloads: [true]
+show_downloads: [false]
 markdown: kramdown
 github:
   zip_url: https://github.com/AlexandraDI/Autonomous_Robotic_Systems
