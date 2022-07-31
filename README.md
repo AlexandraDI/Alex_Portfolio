@@ -4,10 +4,10 @@ Data Science and Web Development portfolio -->
 
 # [Deep Learning](https://github.com/AlexandraDI/Deep_Learning){:target="_blank"}
 
-Implementation of 3 Projects for the course Deep Learning.
+Implementation of 3 Assignments for the course Deep Learning.
 Contributors: Diez Perez Maria, Gianluca Vico.
 
-## Project 1
+* [Task 1](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment1.ipynb){:target="_blank"}:
 The goal of this project is to produce a neural network model that is best suited for training a given dataset. This dataset consists of a 1000-by-1 vector of 8-bit unsigned integers. The values of the vector are shown below.
 
 <p align="center">
@@ -28,9 +28,9 @@ Evaluate the model on the test data:
  <img src="https://github.com/AlexandraDI/Alex_Portfolio/blob/main/figure3.png" alt="zigzag" width="50%" height="50%" />  
 </p>
 
-## Project 2
+* [Task 2](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.ipynb){:target="_blank"}:
 
-## Project 3
+* [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_Assignment_3.ipynb){:target="_blank"}:
 
 
 # [Autonomous Robotic Systems](https://github.com/AlexandraDI/Autonomous_Robotic_Systems){:target="_blank"}
