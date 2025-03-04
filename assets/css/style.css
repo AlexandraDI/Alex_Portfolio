@@ -1,0 +1,31 @@
+/* Dark theme for Jekyll Minimal Theme */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+a {
+    color: #66b3ff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+.container {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Customize the header */
+.site-header {
+    background: #222;
+    border-bottom: 1px solid #444;
+}
+
+/* Customize the footer */
+.site-footer {
+    background: #222;
+    color: #bbb;
+}
