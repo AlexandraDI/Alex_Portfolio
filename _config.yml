@@ -4,7 +4,8 @@ baseurl: 'Alex_Portfolio/'
 #logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker.png?raw=true
 logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/new_me_cropped.png?raw=true
 title: [Alexandra_Gianzina]
-description: [M.Sc in Artificial Intelligence]
+description: [M.Sc in Artificial Intelligence
+B.Sc in Computer Science]
 # show_downloads: [false]
 markdown: kramdown
 github:
