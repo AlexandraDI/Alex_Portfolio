@@ -54,7 +54,7 @@ Temperature prediction of the next week:
 Experiments between different features:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="75%" height="75%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure6.png" alt="zigzag" width="100%" height="75%" />  
 </p>
 
 * [Task 3](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_3/DL_assignment_3.ipynb){:target="_blank"}: The data-set consists of several documents with magnetoencephalography data. The goal is to classify the task that the subject was performing during the recording: resting, math and story task, working memory, and motor task. To do so, we implemented a CNN model and trained it with the available training data. We also compared the accuracy of intra-subject and cross-subject
