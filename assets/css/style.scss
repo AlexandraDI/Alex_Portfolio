@@ -1,5 +1,17 @@
+---
+---
+
 @import "jekyll-theme-minimal";
+
 body {
   background-color: black !important;
   color: white !important;
+}
+
+a {
+  color: #4fa3d1; /* Adjust link color for better contrast */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
 }
