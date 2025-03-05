@@ -13,11 +13,12 @@ body {
 //   color: #4fa3d1; /* Adjust link color for better contrast */
 // }
 
-// a {
-//   // color: orange !important; /* Changes link color to orange */
-//   color: #FF9E00 !important; /* Burnt Orange */
-//   text-decoration: none; /* Optional: Removes underline */
-// }
+a {
+  // color: orange !important; /* Changes link color to orange */
+  // color: #FF9E00 !important; /* Burnt Orange */
+  color: white !important; /* Burnt Orange */
+  text-decoration: none; /* Optional: Removes underline */
+}
 
 a:hover {
   // color: #ffcc66 !important; /* Lighter orange when hovering */
