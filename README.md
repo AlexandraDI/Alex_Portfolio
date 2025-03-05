@@ -196,7 +196,7 @@ Find the Project Report [here.](https://github.com/AlexandraDI/Tactical_Voting_A
 
 <p align="center">
 
- <img src="https://alexandradi.github.io/Alex_Portfolio/TVA_Figure_1.png" alt="zigzag" width="80%" height="80%" /> 
+ <img src="https://alexandradi.github.io/Alex_Portfolio/TVA_Figure_1.png" alt="zigzag" width="100%" height="100%" /> 
 </p>
  
 <p align="center">
