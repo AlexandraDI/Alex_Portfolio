@@ -33,6 +33,6 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden; /* This hides the underscore but keeps the space it occupies */
 }
 .hide-underscore:hover {
-  visibility: visible; /* Shows the underscore when hovering */
+  visibility: visible !important; /* Shows the underscore when hovering */
 }
 
