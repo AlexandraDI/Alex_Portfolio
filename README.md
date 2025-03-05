@@ -109,8 +109,8 @@ Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Roboti
  * [Task 3](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment3){:target="_blank"}: Apply Evolutionary Algorithms on Benchmark Functions.
 Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf){:target="_blank"}
  
- <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_1.png" alt="zigzag" width="49%" height="80%" /> 
- <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
+ <p align="center"> <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_1.png" alt="zigzag" width="49%" height="100%" /> 
+ <img src="https://alexandradi.github.io/Alex_Portfolio/Figure_2.png" alt="zigzag" width="49%" height="100%" /> 
 </p>
 
 * [Task 4](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment4){:target="_blank"}: Apply Evolutionary Algorithm to make the Robot collect as much dust as possible in different Environments.
@@ -135,21 +135,21 @@ Image Stiching.
 Stitching an easy case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="50%" height="50%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure8.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure8.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 Stitching a difficult case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="45%" height="45%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="80%" height="80%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure9.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 * [Task 2](https://github.com/AlexandraDI/Computer_Vision/blob/main/Project_2/CV_Assignment2.ipynb){:target="_blank"}:
