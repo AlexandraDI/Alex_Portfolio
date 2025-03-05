@@ -9,7 +9,7 @@ baseurl: 'Alex_Portfolio/'
 logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker2.png?raw=true
 title: [Alexandra<span class="underscore">_</span>Gianzina]
 # description: [M.Sc. in Artificial Intelligence <br>Maastricht University <br><br>B.Sc. in Computer Science <br>National Kapodistrian University of Athens <br><br>Welcome to my GitHub page, showcasing university projects in AI and Web. This collection reflects my academic work and the skills I've developed during my studies.]
-description: [I hold a M.Sc. in Artificial Intelligence from Maastricht University and a B.Sc. in Computer Science from National Kapodistrian University of Athens. <br><br>Welcome to my GitHub page, where I showcase university projects that reflect the skills and knowledge I've gained during my studies.]
+description: [I hold a M.Sc. in Artificial Intelligence from Maastricht University and a B.Sc. in Computer Science from National Kapodistrian University of Athens. <br><br>Welcome to my GitHub page! <br>This collection reflects my academic work and the skills I have developed during my studies.]
 # show_downloads: [false]
 markdown: kramdown
 github:
