@@ -23,9 +23,14 @@ Furthermore, we trained our model to predict a data point one step ahead for a f
 
 Prediction of the next 200 points:
 
-<p align="center">
+<!--<p align="center">
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure2.png" alt="zigzag" width="75%" height="75%" />  
+</p>-->
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/pic2.png" alt="zigzag" width="75%" height="75%" />  
 </p>
+
 
 Evaluate the model on the test data:
 
