@@ -36,15 +36,19 @@ h1, h2, h3, h4, h5, h6 {
 //   visibility: visible !important; /* Shows the underscore when hovering */
 // }
 
-.title-container {
-      display: inline-block;
-    }
+// .title-container {
+//       display: inline-block;
+//     }
     
 .underscore {
       visibility: hidden;
 }
-    
-.title-container:hover .underscore {
-      visibility: visible; /* Show the underscore when hovering over the title */
+
+.underscore:hover {
+  text-decoration: underline; /* Underline the underscore when hovered */
 }
+    
+// .title-container:hover .underscore {
+//       visibility: visible; /* Show the underscore when hovering over the title */
+// }
 
