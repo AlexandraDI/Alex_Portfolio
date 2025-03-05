@@ -29,10 +29,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #d1cfc7;
 }
 
-.hide-underscore {
-  visibility: hidden; /* This hides the underscore but keeps the space it occupies */
-}
-.hide-underscore:hover {
-  visibility: visible !important; /* Shows the underscore when hovering */
-}
+// .hide-underscore {
+//   visibility: hidden; /* This hides the underscore but keeps the space it occupies */
+// }
+// .hide-underscore:hover {
+//   visibility: visible !important; /* Shows the underscore when hovering */
+// }
+
+.title-container {
+      display: inline-block;
+    }
+    
+    .underscore {
+      visibility: hidden;
+    }
+    
+    .title-container:hover .underscore {
+      visibility: visible; /* Show the underscore when hovering over the title */
+    }
 
