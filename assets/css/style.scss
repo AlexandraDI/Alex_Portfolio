@@ -8,8 +8,18 @@ body {
   color: white !important;
 }
 
+// a {
+//   color: #4fa3d1; /* Adjust link color for better contrast */
+// }
+
 a {
-  color: #4fa3d1; /* Adjust link color for better contrast */
+  color: orange !important; /* Changes link color to orange */
+  text-decoration: none; /* Optional: Removes underline */
+}
+
+a:hover {
+  color: #ffcc66 !important; /* Lighter orange when hovering */
+  text-decoration: underline; /* Optional: Underline on hover */
 }
 
 h1, h2, h3, h4, h5, h6 {
