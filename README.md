@@ -34,9 +34,15 @@ Prediction of the next 200 points:
 
 Evaluate the model on the test data:
 
-<p align="center">
+<!--<p align="center">
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure3.png" alt="zigzag" width="75%" height="75%" />  
+</p>-->
+
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/pic3.png" alt="zigzag" width="75%" height="75%" />  
 </p>
+
 
 * [Task 2](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.ipynb){:target="_blank"}:
 The goal of this task is to produce a neural network model in a recursive fashion to predict the temperature of a city given previous meteorological
