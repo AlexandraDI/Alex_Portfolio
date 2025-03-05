@@ -7,7 +7,7 @@ url: 'https://alexandradi.github.io/'
 baseurl: 'Alex_Portfolio/'
 #logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker.png?raw=true
 logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker2.png?raw=true
-title: [Alexandra_Gianzina]
+title: [Alexandra<span class="hide-underscore">_</span>Gianzina]
 description: [M.Sc. in Artificial Intelligence <br>Maastricht University <br><br>B.Sc. in Computer Science <br>National Kapodistrian University of Athens]
 # show_downloads: [false]
 markdown: kramdown
