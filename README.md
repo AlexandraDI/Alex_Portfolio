@@ -10,16 +10,10 @@ Contributors: Diez Perez Maria, Gianluca Vico.
 * [Task 1](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment1.ipynb){:target="_blank"}:
 The goal of this task is to produce a neural network model that is best suited for training a given dataset. This dataset consists of a 1000-by-1 vector of 8-bit unsigned integers. The values of the vector are shown below.
 
-<!--<p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure1.png" alt="zigzag" width="75%" height="75%" />  
-</p> -->
-
 <p align="center">
-  <div class="image-container">
-    <img src="https://alexandradi.github.io/Alex_Portfolio/figure1.png" alt="zigzag" width="75%" height="75%" />
-    <div class="overlay"></div>
-  </div>
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure1.png" alt="zigzag" width="100%" height="75%" />  
 </p>
+
 
 Furthermore, we trained our model to predict a data point one step ahead for a fracture of the data. To solve this issue, we implemented two different architectures to train our data. In the [report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment_1.pdf){:target="_blank"}, we explain why we chose these two architectures and present the results. Some of the results are shown below.
 
