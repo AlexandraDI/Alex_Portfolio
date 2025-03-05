@@ -49,8 +49,12 @@ The goal of this task is to produce a neural network model in a recursive fashio
 measurements. In addition, to find a strategy to determine which features are the more relevant for the results, and to use visualisation techniques to show
 them. This dataset consists of a 70128 by 4 by 5 vector that contains the information of the time, the location and the meteorological features respectively. The temperatures of the four locations are shown below.
 
-<p align="center">
+<!--<p align="center">
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure4.png" alt="zigzag" width="100%" height="100%" />  
+</p>-->
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/pic4.png" alt="zigzag" width="100%" height="100%" />  
 </p>
 
 In the [report](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_2/DL_Assignment_2.pdf){:target="_blank"}, we explain the implementation details and present the results. Some of the results are shown below.
