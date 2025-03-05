@@ -10,8 +10,12 @@ Contributors: Diez Perez Maria, Gianluca Vico.
 * [Task 1](https://github.com/AlexandraDI/Deep_Learning/blob/main/Project_1/DL_Assignment1.ipynb){:target="_blank"}:
 The goal of this task is to produce a neural network model that is best suited for training a given dataset. This dataset consists of a 1000-by-1 vector of 8-bit unsigned integers. The values of the vector are shown below.
 
-<p align="center">
+<!--<p align="center">
  <img src="https://alexandradi.github.io/Alex_Portfolio/figure1.png" alt="zigzag" width="75%" height="75%" />  
+</p>-->
+
+<p align="center">
+ <img src="https://alexandradi.github.io/Alex_Portfolio/pic1.png" alt="zigzag" width="75%" height="75%" />  
 </p>
 
 
