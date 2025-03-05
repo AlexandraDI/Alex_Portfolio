@@ -1,5 +1,5 @@
 # theme: jekyll-theme-minimal
-remote_theme: pages-themes/dark-minimal@v0.2.0
+theme: jekyll-theme-minimal
 url: 'https://alexandradi.github.io/'
 baseurl: 'Alex_Portfolio/'
 #logo: https://github.com/AlexandraDI/ALMA/blob/master/src/main/resources/static/avatars/AvatarMaker.png?raw=true
