@@ -80,7 +80,7 @@ almost the end of the graph, epoch 8, when suddenly appears a significant increm
 in testing Intra classification are 99% and the confusion matrix shows a good performance in the classification.
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure7.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure7.png" alt="zigzag" width="100%" height="120%" />  
 </p>
 
 Analyzing the Cross loss plot, the right image above, we can see an unstable loss that is getting higher in the latest epochs. The accuracy with this classifier is worse than with Intra, having a 47% in the first and second set and a 25% in the third. The confusion matrix shows an unsatisfactory performance.
@@ -135,7 +135,7 @@ Image Stiching.
 Stitching an easy case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure10.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
 <p align="center">
@@ -145,7 +145,7 @@ Stitching an easy case:
 Stitching a difficult case:
 
 <p align="center">
- <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="100%" height="100%" />  
+ <img src="https://alexandradi.github.io/Alex_Portfolio/figure11.png" alt="zigzag" width="80%" height="80%" />  
 </p>
 
 <p align="center">
