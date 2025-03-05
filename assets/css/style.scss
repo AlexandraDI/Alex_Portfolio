@@ -29,7 +29,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #d1cfc7;
 }
 
-title {
-  text-decoration: none;
+.hide-underscore {
+  visibility: hidden; /* This hides the underscore but keeps the space it occupies */
 }
+
 
